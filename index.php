@@ -20,6 +20,9 @@
             <a href="praktikum4/">
                 <h1>Praktikum 4</h1>
             </a>
+            <a href="praktikum5/">
+                <h1>Praktikum 5</h1>
+            </a>
         </div>
     </section>
 </body>
